@@ -15,7 +15,7 @@ const Experience = ({ isDarkMode }) => {
       ]
     },
     {
-      date: "Sep 2024 - Present",
+      date: "Sep 2024 - Feb 2025",
       title: "Junior Developer (Remote)",
       company: "A22 AIRPORT PARKING LTD",
       location: "MITCHAM, LONDON, UK",
