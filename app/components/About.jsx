@@ -29,7 +29,7 @@ const About = ({isDarkMode}) => {
                         ))}
                     </ul>
 
-                        <h4 className='my-6 text-gray-700 font-Ovo dark:text-white'>Tools I used:</h4>
+                        <h4 className='my-6 text-gray-700 font-Ovo dark:text-white'>Tools:</h4>
 
                         <ul className='flex items-center gap-3 sm:gap-3'>
                             {toolsData.map((tool, index)=>(
