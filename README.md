@@ -3,7 +3,7 @@
 This is my personal portfolio website showcasing my projects, skills, and projects as a web developer.  
 Built with modern web technologies to provide a fast, responsive, and user-friendly experience.
 
----
+
 
 ## 🚀 Features
 
@@ -13,20 +13,20 @@ Built with modern web technologies to provide a fast, responsive, and user-frien
 - **Contact Form** – Easy way for visitors to connect with me.
 - **Dark/Light Mode** – Switchable theme for better user experience.
 
----
+
 
 ## 🚀 Live Demo
 
 🌐Live Demo :  [Visit Live](https://ishan-portfolio-new.vercel.app/)
 
----
+
 
 ## 🛠 Tech Stack
 
 - **Frontend:** next.js, Tailwind CSS
 - **Deployment:** Vercel
 
----
+
 
 ## 📸 Screenshots
 
@@ -35,5 +35,6 @@ Built with modern web technologies to provide a fast, responsive, and user-frien
 
 ### 📂 Light Mode
 ![Light Mode](./IshanPortLight.png)
+
 
 
