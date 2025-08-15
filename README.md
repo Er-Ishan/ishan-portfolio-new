@@ -30,9 +30,10 @@ Built with modern web technologies to provide a fast, responsive, and user-frien
 
 ## 📸 Screenshots
 
-### 🏠 Image 1
-![Home Page](./IshanPortDark.png)
+### 🏠 Dark Mode
+![Dark Mode](./IshanPortDark.png)
 
-### 📂 Projects Section
-![Projects](./IshanPortLight.png)
+### 📂 Light Mode
+![Light Mode](./IshanPortLight.png)
+
 
