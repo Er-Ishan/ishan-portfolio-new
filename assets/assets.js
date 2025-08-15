@@ -35,6 +35,7 @@ import right_arrow from './right-arrow.png';
 import send_icon from './send-icon.png';
 import right_arrow_bold from './right-arrow-bold.png';
 import right_arrow_bold_dark from './right-arrow-bold-dark.png';
+import spring_boot from './spring-boot.png';
 
 export const assets = {
     user_image,
@@ -73,7 +74,8 @@ export const assets = {
     right_arrow,
     send_icon,
     right_arrow_bold,
-    right_arrow_bold_dark
+    right_arrow_bold_dark,
+    spring_boot
 };
 
 export const workData = [
@@ -81,22 +83,22 @@ export const workData = [
         title: 'Netflix Clone',
         description: 'It is a full-stack web application inspired by Netflix, featuring a modern and intuitive user interface designed to showcase video content.',
         tech: 'React.js, Bootstrap',
-        url:'https://github.com/Er-Ishan-Ahirrao-2001/netflix-clone-react-site.git',
+        url:'https://github.com/Er-Ishan/simple-netflix-clone.git',
         bgImage: '/work-1.jpg',
     },
     
     {
-        title: 'Gemini Clone',
-        description: 'A replica of Google’s Gemini AI, built using advanced natural language processing techniques. This project includes a chatbot interface, and a modern UI.',
-        tech: 'React.js, Bootstrap, API',
-        url:'https://github.com/Er-Ishan-Ahirrao-2001/google-gemini-clone.git',
-        bgImage: '/work-2.png',
+        title: 'Secure Bidding Platform',
+        description: 'Secure Bidding Platform is an advanced online auction system designed to provide a safe, transparent, and user-friendly environment for buying and selling products through competitive bidding.',
+        tech: 'React.js, Bootstrap, Spring Boot Rest API, Java JWT',
+        url:'https://github.com/Er-Ishan/secure-bidding-platform.git',
+        bgImage: '/work-4.png',
     },
     {
         title: 'Portfolio',
         description: 'A personal portfolio website showcasing my skills, projects, and experience. Built using React and Tailwind CSS, featuring smooth animations and responsive design.',
         tech: 'Next.js, Tailwind',
-        url:'https://github.com/Er-Ishan-Ahirrao-2001/ishan-ahirrao-personal-portfolio.git',
+        url:'https://github.com/Er-Ishan/ishan-portfolio-new.git',
         bgImage: '/work-3.png',
     }
 ];
@@ -111,10 +113,11 @@ export const serviceData = [
 
 
 export const infoList = [
-    { icon: assets.code_icon, iconDark: assets.code_icon_dark, title: 'Languages', description: 'C++, Python, HTML, CSS, Javascript, React' },
-    { icon: assets.edu_icon, iconDark: assets.edu_icon_dark, title: 'Education', description: 'B.E. in Computer Science' }
+    { icon: assets.code_icon, iconDark: assets.code_icon_dark, title: 'Languages', description: 'C++, Python, HTML, CSS, Javascript, React.js' },
+    { icon: assets.code_icon, iconDark: assets.edu_icon_dark, title: 'Backend', description: 'Java Spring Boot, ASP.NET' },
+    { icon: assets.code_icon, iconDark: assets.edu_icon_dark, title: 'Database', description: 'MySQL' }
 ];
 
 export const toolsData = [
-    assets.vscode, assets.cpanel, assets.tailwind, assets.git
+    assets.vscode, assets.cpanel, assets.tailwind, assets.git, assets.spring_boot
 ];

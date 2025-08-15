@@ -6,7 +6,7 @@ const Experience = ({ isDarkMode }) => {
       date: "Feb 2023 - Mar 2023",
       title: "Web Developer Intern",
       company: "CYBER SANSKAR",
-      location: "NASHIK",
+      location: "NASHIK, MAHARASHTRA, INDIA",
       descriptions: [
         "Gained hands-on experience in a dynamic professional environment, enhancing web development skills.",
         "Developed an MD5 Hash Code Generator website for text and PDF encryption and decryption.",

@@ -8,6 +8,7 @@ import Contact from "./components/Contact";
 import Footer from "./components/Footer";
 import { useEffect, useState } from "react";
 import Experience from "./components/Experience";
+import Education from "./components/Education";
 
 
 export default function Home() {
@@ -39,9 +40,11 @@ export default function Home() {
       <Header isDarkMode = {isDarkMode}></Header>
       <About isDarkMode = {isDarkMode}></About>
       <Experience isDarkMode = {isDarkMode}></Experience>
+      <Education isDarkMode = {isDarkMode}></Education>
       <Work isDarkMode = {isDarkMode}></Work>
       <Contact isDarkMode = {isDarkMode}></Contact>
       <Footer isDarkMode = {isDarkMode}></Footer>
+      
     </div>
   );
 }
