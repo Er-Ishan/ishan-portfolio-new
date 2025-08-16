@@ -9,6 +9,15 @@ export default {
   ],
   theme: {
     extend: {
+      keyframes: {
+        scroll: {
+          "0%": { transform: "translateX(0)" },
+          "100%": { transform: "translateX(-50%)" }
+        }
+      },
+      animation: {
+        scroll: "scroll 20s linear infinite"
+      },
       colors: {
         lightHover: '#fcf4ff',
         darkHover: "#2a004a", 

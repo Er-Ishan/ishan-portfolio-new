@@ -9,6 +9,7 @@ import Footer from "./components/Footer";
 import { useEffect, useState } from "react";
 import Experience from "./components/Experience";
 import Education from "./components/Education";
+import Certifications from "./components/Certifications";
 
 
 export default function Home() {
@@ -42,6 +43,7 @@ export default function Home() {
       <Experience isDarkMode = {isDarkMode}></Experience>
       <Education isDarkMode = {isDarkMode}></Education>
       <Work isDarkMode = {isDarkMode}></Work>
+      <Certifications isDarkMode = {isDarkMode}></Certifications>
       <Contact isDarkMode = {isDarkMode}></Contact>
       <Footer isDarkMode = {isDarkMode}></Footer>
       

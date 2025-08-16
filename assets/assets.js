@@ -36,6 +36,7 @@ import send_icon from './send-icon.png';
 import right_arrow_bold from './right-arrow-bold.png';
 import right_arrow_bold_dark from './right-arrow-bold-dark.png';
 import spring_boot from './spring-boot.png';
+import visual_studio from './visual_studio.png'
 
 export const assets = {
     user_image,
@@ -75,7 +76,8 @@ export const assets = {
     send_icon,
     right_arrow_bold,
     right_arrow_bold_dark,
-    spring_boot
+    spring_boot,
+    visual_studio
 };
 
 export const workData = [
@@ -119,5 +121,5 @@ export const infoList = [
 ];
 
 export const toolsData = [
-    assets.vscode, assets.cpanel, assets.tailwind, assets.git, assets.spring_boot
+    assets.vscode, assets.cpanel, assets.tailwind, assets.git, assets.spring_boot,assets.visual_studio
 ];
