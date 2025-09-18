@@ -37,6 +37,7 @@ import right_arrow_bold from './right-arrow-bold.png';
 import right_arrow_bold_dark from './right-arrow-bold-dark.png';
 import spring_boot from './spring-boot.png';
 import visual_studio from './visual_studio.png'
+import robot from './robot.json'
 
 export const assets = {
     user_image,
@@ -77,7 +78,8 @@ export const assets = {
     right_arrow_bold,
     right_arrow_bold_dark,
     spring_boot,
-    visual_studio
+    visual_studio,
+    robot
 };
 
 export const workData = [

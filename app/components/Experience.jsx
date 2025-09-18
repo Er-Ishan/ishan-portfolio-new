@@ -20,9 +20,9 @@ const Experience = ({ isDarkMode }) => {
       company: "A22 AIRPORT PARKING LTD",
       location: "MITCHAM, LONDON, UK",
       descriptions: [
-        "Contributing to the designed and developed a comprehensive Driver Tracking App and Admin Dashboard for real-time monitoring and management of driver activities.",
-        "Real-time GPS tracking with the Google Map API, journey history, speed monitoring with alerts, shift management, and branch allocation.",
-        "Collaborating with the development team to implement new features, improve performance, and ensure system scalability."
+        "Contributed to the design and development of a comprehensive Driver Tracking App and Admin Dashboard for real-time monitoring and management of driver activities.",
+        " Implemented real-time GPS tracking with the Google Map API, journey history, speed monitoring with alerts, shift management, and branch allocation.",
+        "Utilized React.js and Bootstrap to build the website, ensuring responsive design and efficient functionality."
       ]
     }
   ];

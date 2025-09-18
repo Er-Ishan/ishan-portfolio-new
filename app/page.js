@@ -10,6 +10,7 @@ import { useEffect, useState } from "react";
 import Experience from "./components/Experience";
 import Education from "./components/Education";
 import Certifications from "./components/Certifications";
+import ChatbotPage from "./components/ChatbotPage";
 
 
 export default function Home() {
@@ -44,6 +45,7 @@ export default function Home() {
       <Education isDarkMode = {isDarkMode}></Education>
       <Work isDarkMode = {isDarkMode}></Work>
       <Certifications isDarkMode = {isDarkMode}></Certifications>
+      <ChatbotPage isDarkMode = {isDarkMode}></ChatbotPage>
       <Contact isDarkMode = {isDarkMode}></Contact>
       <Footer isDarkMode = {isDarkMode}></Footer>
       
